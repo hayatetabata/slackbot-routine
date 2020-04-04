@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hayatetabata/slackbot-routine/issues"
   },
-  "homepage": "https://github.com/hayatetabata/slackbot-routine#readme"
+  "homepage": "https://github.com/hayatetabata/slackbot-routine#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.0.0"
+  }
 }
