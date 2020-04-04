@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hayatetabata/slackbot-routine#readme",
   "dependencies": {
-    "@slack/bolt": "^2.0.0"
+    "@slack/bolt": "^2.0.0",
+    "dotenv": "^8.2.0"
   }
 }
